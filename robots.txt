@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://n159.ru/sitemap.xml
